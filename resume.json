@@ -1,0 +1,70 @@
+{
+    "name": "Ankit Kumar",
+    "title": "Data Analyst",
+    "email": "thakurankitrana000@gmail.com",
+    "phone": "+91-6395877097",
+    "location": "Greater Noida, Uttar Pradesh",
+    "linkedin": "ankitkumar6395",
+    "github": "https://github.com/ankitkumar6395",
+    "summary": "BCA graduate with knowledge of Python, SQL, Power BI and data analytics. Skilled in data cleaning, data visualization, reporting and working with databases. Interested in using data to solve business problems.",
+    "education": [
+        {
+            "degree": "Bachelor of Computer Applications (BCA)",
+            "college": "DAV PG College, Muzaffarnagar",
+            "university": "Maa Shakumbhari University, Saharanpur",
+            "year": "2025"
+        }
+    ],
+    "skills": [
+        "Python",
+        "Pandas",
+        "NumPy",
+        "SQL",
+        "MySQL",
+        "Power BI",
+        "DAX",
+        "Power Query",
+        "Advanced Excel",
+        "Data Cleaning",
+        "Data Visualization",
+        "ETL"
+    ],
+    "projects": [
+        {
+            "name": "Global Supply Chain Optimization",
+            "tools": [
+                "Python",
+                "Pandas",
+                "Microsoft Fabric",
+                "Seaborn"
+            ],
+            "details": [
+                "Analyzed shipment data to understand delivery delays.",
+                "Explored supply chain performance and identified patterns.",
+                "Used visualizations to present findings."
+            ]
+        },
+        {
+            "name": "FinTech Transaction Analysis Dashboard",
+            "tools": [
+                "Power BI",
+                "SQL",
+                "Excel",
+                "DAX",
+                "Power Query"
+            ],
+            "details": [
+                "Analyzed financial transaction data across different states.",
+                "Prepared transaction data using SQL and Power Query.",
+                "Created a Power BI dashboard to track transaction trends.",
+                "Used DAX measures to summarize business metrics."
+            ]
+        }
+    ],
+    "certifications": [
+        "Microsoft Fabric & Power BI Modules",
+        "Google Data Analytics Professional Certificate",
+        "Deloitte Data Analytics Job Simulation",
+        "Data Analyst Certification - SkillCourse"
+    ]
+}
